@@ -8,7 +8,7 @@ public class LatihanIndividu1 {
         jarak = input.nextDouble();
 
         if(jarak <= 5 )
-            System.out.println("Anda disarankan menggunakan melee weapon untuk melakukan pertarungan jarak dekat, dikarenakan jarak anda adalah pertarungan jarak dekat");
+            System.out.println("Anda Disarankan Menggunakan Melee Weapon Untuk Melakukan Pertarungan Jarak Dekat, Dikarenakan Jarak Anda Adalah Pertarungan Jarak Dekat");
         else
         System.out.println("Anda disarankan menggunakan ranged weapon untuk melakukan pertarungan jarak jauh, karena jarak pertarungan anda yang jauh");
         input.close();        
